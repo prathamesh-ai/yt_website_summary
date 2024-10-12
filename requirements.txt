@@ -1,0 +1,7 @@
+validators
+streamlit
+langchain
+langchain_groq
+langchain_huggingface
+youtube-transcript-api
+pytube
