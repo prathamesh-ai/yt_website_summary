@@ -1,6 +1,7 @@
 validators
 streamlit
 langchain
+langchain_community
 langchain_groq
 langchain_huggingface
 youtube-transcript-api
